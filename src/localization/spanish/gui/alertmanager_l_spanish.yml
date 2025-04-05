@@ -65,7 +65,7 @@
   action_marry_off_courtiers_combined_group_name: "Seus cortesãos podem se casar"
   action_marry_off_courtiers_combined_group_label: "$action_marry_off_courtiers_combined_group_name$"
   action_marry_off_courtiers_combined_group_description: "Vários dos seus [courtier|E] são elegíveis para se casar.\n\n#help Propor [marriages|E] para eles pode beneficiar sua [court|E].#!"
-
+  
   action_convert_courtiers: "[recipient.GetShortUINameNoTooltip] pode se converter"
   action_convert_courtiers_label: "$action_convert_courtiers$"
   action_convert_courtiers_desc: "Seu [actor.Custom2('RelationToMe', recipient)] [recipient.GetShortUIName] pode se converter a [actor.GetFaith.GetName|V]"
@@ -125,11 +125,6 @@
   alertmanager_widget_marriagecourtier: "Para os membros da sua [court|El]"
   alertmanager_widget_marriagecourtier_tooltip: ""
 
-  # alertmanager_widget_marriagecourtier_unworthy: "Apenas [courtiers|El] com traços [congenital|El]"
-  # alertmanager_widget_marriagecourtier_unworthy_tooltip: ""
-  # alertmanager_widget_marriagecourtier_infertile: "Ignorar cortesãos inférteis"
-  # alertmanager_widget_marriagecourtier_infertile_tooltip: ""
-
   alertmanager_widget_marriagedynasty_closefamily: "Apenas [close_family|El]"
   alertmanager_widget_marriagedynasty_closefamily_tooltip: ""
   alertmanager_widget_marriageboy: "Para homens"
@@ -158,4 +153,3 @@
   alertmanager_widget_witchcraft_tooltip: ""
   alertmanager_widget_witchcraftwithcoven: "E continuar após a criação do Covil"
   alertmanager_widget_witchcraftwithcoven_tooltip: ""
-
